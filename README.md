@@ -2,9 +2,7 @@ CSDN博客地址:http://blog.csdn.net/y550918116j
 
 GitHub博客地址:https://github.com/937447974/Blog
 
-姓名：阳君
 
-QQ：937447974
 
 职位：IOS攻城师
 
